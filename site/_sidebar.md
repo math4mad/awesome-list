@@ -1,0 +1,103 @@
+- **The List**
+  - [Awesome Python](README.md)
+
+- **Categories**
+  - **AI & ML**
+    - [AI and Agents](categories/ai-and-agents.md)
+    - [Deep Learning](categories/deep-learning.md)
+    - [Machine Learning](categories/machine-learning.md)
+    - [Natural Language Processing](categories/natural-language-processing.md)
+    - [Computer Vision](categories/computer-vision.md)
+    - [Recommender Systems](categories/recommender-systems.md)
+  - **Web Development**
+    - [Web Frameworks](categories/web-frameworks.md)
+    - [Web APIs](categories/web-apis.md)
+    - [Web Servers](categories/web-servers.md)
+    - [WebSocket](categories/websocket.md)
+    - [Template Engines](categories/template-engines.md)
+    - [Web Asset Management](categories/web-asset-management.md)
+    - [Authentication](categories/authentication.md)
+    - [Admin Panels](categories/admin-panels.md)
+    - [CMS](categories/cms.md)
+    - [ERP](categories/erp.md)
+    - [Static Site Generators](categories/static-site-generators.md)
+  - **HTTP & Scraping**
+    - [HTTP Clients](categories/http-clients.md)
+    - [Web Scraping](categories/web-scraping.md)
+    - [Email](categories/email.md)
+  - **Database & Storage**
+    - [ORM](categories/orm.md)
+    - [Database Drivers](categories/database-drivers.md)
+    - [Database](categories/database.md)
+    - [Caching](categories/caching.md)
+    - [Search](categories/search.md)
+    - [Serialization](categories/serialization.md)
+  - **Data & Science**
+    - [Data Analysis](categories/data-analysis.md)
+    - [Data Ingestion / ETL](categories/data-ingestion--etl.md)
+    - [Data Validation](categories/data-validation.md)
+    - [Data Visualization](categories/data-visualization.md)
+    - [Geolocation](categories/geolocation.md)
+    - [Science](categories/science.md)
+    - [Quantum Computing](categories/quantum-computing.md)
+  - **Developer Tools**
+    - [Algorithms and Design Patterns](categories/algorithms-and-design-patterns.md)
+    - [Interactive Interpreter](categories/interactive-interpreter.md)
+    - [Code Analysis](categories/code-analysis.md)
+    - [Testing](categories/testing.md)
+    - [Debugging Tools](categories/debugging-tools.md)
+    - [Build Tools](categories/build-tools.md)
+    - [Documentation](categories/documentation.md)
+  - **DevOps**
+    - [DevOps Tools](categories/devops-tools.md)
+    - [Distributed Computing](categories/distributed-computing.md)
+    - [Task Queues](categories/task-queues.md)
+    - [Messaging](categories/messaging.md)
+    - [Job Schedulers](categories/job-schedulers.md)
+    - [Logging](categories/logging.md)
+    - [Network Virtualization](categories/network-virtualization.md)
+  - **CLI & GUI**
+    - [CLI Development](categories/cli-development.md)
+    - [CLI Tools](categories/cli-tools.md)
+    - [GUI Development](categories/gui-development.md)
+  - **Text & Documents**
+    - [Text Processing](categories/text-processing.md)
+    - [HTML Manipulation](categories/html-manipulation.md)
+    - [File Format Processing](categories/file-format-processing.md)
+    - [File Manipulation](categories/file-manipulation.md)
+  - **Media**
+    - [Image Processing](categories/image-processing.md)
+    - [Audio & Video Processing](categories/audio--video-processing.md)
+    - [Game Development](categories/game-development.md)
+  - **Python Language**
+    - [Implementations](categories/implementations.md)
+    - [Built-in Classes Enhancement](categories/built-in-classes-enhancement.md)
+    - [Functional Programming](categories/functional-programming.md)
+    - [Asynchronous Programming](categories/asynchronous-programming.md)
+    - [Date and Time](categories/date-and-time.md)
+  - **Python Toolchain**
+    - [Environment Management](categories/environment-management.md)
+    - [Package Management](categories/package-management.md)
+    - [Package Repositories](categories/package-repositories.md)
+    - [Distribution](categories/distribution.md)
+    - [Configuration Files](categories/configuration-files.md)
+  - **Security**
+    - [Cryptography](categories/cryptography.md)
+    - [Penetration Testing](categories/penetration-testing.md)
+    - [Supply Chain Security](categories/supply-chain-security.md)
+    - [Web Security](categories/web-security.md)
+  - **Other**
+    - [Hardware](categories/hardware.md)
+    - [Microsoft Windows](categories/microsoft-windows.md)
+    - [Miscellaneous](categories/miscellaneous.md)
+
+- **Curation**
+  - [Curation Context](CONTEXT.md)
+  - [Contributing](CONTRIBUTING.md)
+  - [Audit Log](docs/audit-logs.md)
+  - [ADR: Shortlist, not a catalog](docs/adr/0001-shortlist-not-catalog.md)
+
+- **Project**
+  - [Website Design](DESIGN.md)
+  - [Code of Conduct](CODE_OF_CONDUCT.md)
+  - [Sponsorship](SPONSORSHIP.md)
